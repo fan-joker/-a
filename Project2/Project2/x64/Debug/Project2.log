@@ -1,0 +1,45 @@
+﻿  game.c
+D:\C++程序\Project2\Project2\game.c(52,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++程序\Project2\Project2\game.c(53,7): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(53,10): error C2065: “x”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(53,13): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(53,16): error C2065: “y”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(54,8): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(54,11): error C2065: “x”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(54,14): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(54,18): error C2065: “y”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(55,8): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(55,11): error C2065: “x”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(55,14): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(55,18): error C2065: “y”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(56,8): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(56,11): error C2065: “x”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(56,14): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(56,17): error C2065: “y”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(57,8): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(57,11): error C2065: “x”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(57,14): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(57,18): error C2065: “y”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(58,8): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(58,10): error C2065: “x”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(58,10): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(58,14): error C2065: “y”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(59,8): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(59,11): error C2065: “x”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(59,14): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(59,18): error C2065: “y”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(63,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++程序\Project2\Project2\game.c(74,12): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(74,14): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(77,22): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(77,22): warning C4047: “函数”:“char (*)[11]”与“int”的间接级别不同
+D:\C++程序\Project2\Project2\game.c(77,18): warning C4024: “DisplayBoard”: 形参和实参 1 的类型不同
+D:\C++程序\Project2\Project2\game.c(84,36): error C2065: “mine”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(84,36): warning C4047: “函数”:“char (*)[11]”与“int”的间接级别不同
+D:\C++程序\Project2\Project2\game.c(84,32): warning C4024: “get_mine_count”: 形参和实参 1 的类型不同
+D:\C++程序\Project2\Project2\game.c(85,9): error C2065: “show”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(85,11): error C2109: 下标要求数组或指针类型
+D:\C++程序\Project2\Project2\game.c(86,22): error C2065: “show”: 未声明的标识符
+D:\C++程序\Project2\Project2\game.c(86,22): warning C4047: “函数”:“char (*)[11]”与“int”的间接级别不同
+D:\C++程序\Project2\Project2\game.c(86,18): warning C4024: “DisplayBoard”: 形参和实参 1 的类型不同
+D:\C++程序\Project2\Project2\game.c(39): fatal  error C1075: “{”: 未找到匹配令牌
